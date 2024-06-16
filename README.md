@@ -1,6 +1,7 @@
 # All Climb
-This app introduces new climbers to the sport, promoting an inclusive environment and providing tips. 
-Submission for the swift student challenge 2024.
+The project is an app developed to introduce people to the sport of climbing. The main section shows information about different types of climbing, general tips and provides a table with climbing grade conversions. Additionally, the app is more interactive by providing an AR View that shows different kinds of holds and tips on how to grab them. Finally, there is a logbook to add sessions and display results on charts to monitor progress over time.
+
+App submitted to the Swift Student Challenge 2024, recognized as Distinguished Winner!
 
 ## Features
 
