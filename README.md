@@ -22,6 +22,8 @@ Tools:
 
 ## Preview
 
+[Demo](https://youtu.be/7OrvtlaVtkM?si=Pfqaj6kUfdpLnJ2z)
+
 <img width="560" alt="Home" src="https://github.com/Ale-Coeto/SSC2024/assets/109093534/1458e8a1-7a4e-4e01-80f1-622297d49b24">
 <img width="560" alt="Logs" src="https://github.com/Ale-Coeto/SSC2024/assets/109093534/80982ec5-5472-43d5-a0b1-7742d1aab204">
 <img width="1077" alt="AR" src="https://github.com/Ale-Coeto/SSC2024/assets/109093534/bb890d01-fde9-43c0-b65c-b2468beac080">
